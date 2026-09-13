@@ -1,0 +1,13 @@
+node_modules/
+dist/
+tmp/
+*.tsbuildinfo
+.npm-cache/
+# Keep local tooling and environment files out of the public project.
+.env
+.env.*
+!.env.example
+.codex/
+.agents/
+sources/*-pages.json
+sources/*.txt
